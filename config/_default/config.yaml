@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Yuankun's Academic Site # Website name
-baseurl: 'yuankun.github.io' # Website URL
+baseurl: 'https://yuankun.github.io' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
