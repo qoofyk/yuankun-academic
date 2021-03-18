@@ -31,11 +31,11 @@ education:
     institution: Purdue University
     year: 2021
   - course: Master in Computer Science
-    institution: Massachusetts Institute of Technology
+    institution: University of Chinese Academy of Sciences
     year: 2014
-  - course: BSc in Electronic Engi
-    institution: Massachusetts Institute of Technology
-    year: 201
+  - course: BSc in Electronic Engineering
+    institution: Northeastern University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -76,4 +76,4 @@ Yuankun Fu is a Ph.D. candidate in Computer Science at Purdue University.
 
 His Ph.D. dissertation focused on accelerating the in-situ workflow to integrate CFD simulations with data analysis at the extreme scale.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Yuankun_CV_full.pdf" "newtab" >}}resumé{{< /staticref >}}.
