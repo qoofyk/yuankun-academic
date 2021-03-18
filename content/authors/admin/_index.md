@@ -30,7 +30,7 @@ education:
   - course: PhD in High performance computing
     institution: Purdue University
     year: 2021
-  - course: Mast in Computer Science
+  - course: Master in Computer Science
     institution: Massachusetts Institute of Technology
     year: 2014
   - course: BSc in Electronic Engi
@@ -47,7 +47,7 @@ social:
   link: '/#contact'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=z_FbSIAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/qoofyk
